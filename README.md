@@ -11,3 +11,14 @@ has:
 
 Image used:
 - BG image from Google stock image
+
+## 🕹️Game controls
+
+The following controls are bound in-game, for gameplay and testing.
+
+| Key Binding       | Function          |
+| ----------------- | ----------------- |
+| W,A,S,D           | Standard movement |
+| Mouse button1, E  | Shoot             |
+
+<br>
