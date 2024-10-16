@@ -1,6 +1,6 @@
 ## About
-Paper theme Asteroid game 
-polished version for showcase
+Paper theme Asteroid game with 2 Powerups, randomly generated Animated Asteroid, scoring system and saves highscore on Json file
+polished version with post processing for showcase and very scaleable 
 
 <tbody>
     <tr>
