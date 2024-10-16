@@ -76,6 +76,9 @@ public class GameManager : MonoBehaviour
         BuffSpawn.StopSpawning();
 
         this.player.gameObject.SetActive(false);
+        ScoreManager.Instance.UpdateScore(this.score);
+        ScoreManager.Instance.DisplayScore(this.score);
+        Debug.Log(score);
 
         yield return new WaitForSeconds(gameOverDelay);
 
@@ -98,4 +101,5 @@ public class GameManager : MonoBehaviour
             Destroy(gameObject); 
         }
     }
+
 }
