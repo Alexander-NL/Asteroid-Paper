@@ -1,7 +1,12 @@
 ## About
-Paper theme Asteroid game
+Paper theme Asteroid game 
 polished version for showcase
 
+<tbody>
+    <tr>
+      <td><img src="https://github.com/Alexander-NL/Alexander-NL/blob/main/AsteroidPaper.gif"/></td>
+    </tr>
+  
 <br>
 
 ## Scripts and Features
