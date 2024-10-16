@@ -14,9 +14,9 @@ scripts:
 |  Script       | Description                                                  |
 | ------------------- | ------------------------------------------------------------ |
 | `GameManager.cs` | Manages the game flow such as Ammount of lives, scoring |
-| `Asteroid.cs`  | Controls the behaviour of Asteroids,  |
+| `Asteroid.cs`  | Controls the behaviour of Asteroids |
 | `ScoreManager.cs`  | Saves Highscore on a Json file and shows the gameplay score |
-| `Spawner.cs`  | Manages the spawning of Asteroids and special asteroids |
+| `Spawner.cs`  | Manages the spawning of Asteroids and special asteroids by randomly choosing asteroid spawn location |
 | `etc`  | |
 
 the game has:
