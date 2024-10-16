@@ -10,12 +10,12 @@ scripts:
 | ------------------- | ------------------------------------------------------------ |
 | `GameManager.cs` | Manages the game flow such as Ammount of lives, scoring |
 | `Asteroid.cs`  | Controls the behaviour of Asteroids,  |
-| `Movement.cs`  | Controls the shooting and movement of the player |
+| `ScoreManager.cs`  | Saves Highscore on a Json file and shows the gameplay score |
 | `Spawner.cs`  | Manages the spawning of Asteroids and special asteroids |
 | `etc`  | |
 
 the game has:
-- scoring system
+- scoring and Highscore saving system
 - 2 power up
 - special asteroid
 - randomly generated asteroid with animation
