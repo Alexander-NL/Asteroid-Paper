@@ -42,4 +42,4 @@ The following controls are bound in-game, for gameplay and testing.
 ## Notes
 this game is developed in **Unity Editor 2022.3.15f1**
 Image used:
-- BG image from Google stock image
+- BG image from real life paper
