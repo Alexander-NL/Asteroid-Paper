@@ -19,6 +19,9 @@ scripts:
 | `Spawner.cs`  | Manages the spawning of Asteroids and special asteroids by randomly choosing asteroid spawn location |
 | `etc`  | |
 
+This project also uses these package:
+- Universal RP
+
 the game has:
 - scoring and Highscore saving system
 - 2 power up
