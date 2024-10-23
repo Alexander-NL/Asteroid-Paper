@@ -41,5 +41,7 @@ The following controls are bound in-game, for gameplay and testing.
 
 ## Notes
 this game is developed in **Unity Editor 2022.3.15f1**
-Image used:
+
+Asset used:
 - BG image from real life paper
+- Letter for learners font: https://www.dafont.com/letters-for-learners.font
