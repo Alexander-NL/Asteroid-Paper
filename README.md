@@ -11,13 +11,13 @@ polished version with post processing for showcase and very scaleable
 
 ## Scripts and Features
 scripts:
-|  Script       | Description                                                  |
-| ------------------- | ------------------------------------------------------------ |
-| `GameManager.cs` | Manages the game flow such as Ammount of lives, scoring |
-| `Asteroid.cs`  | Controls the behaviour of Asteroids |
-| `ScoreManager.cs`  | Saves Highscore on a Json file and shows the gameplay score |
-| `Spawner.cs`  | Manages the spawning of Asteroids and special asteroids by randomly choosing asteroid spawn location |
-| `etc`  | |
+|  Script       | Description                                                  | Development Time |
+| ------------------- | ------------------------------------------------------------ | -------------- |
+| `GameManager.cs` | Manages the game flow such as Ammount of lives, scoring | ≈ 2 hours | 
+| `Asteroid.cs`  | Controls the behaviour of Asteroids | ≈ 2 hours |
+| `ScoreManager.cs`  | Saves Highscore on a Json file and shows the gameplay score | ≈ 3 hours |
+| `Spawner.cs`  | Manages the spawning of Asteroids and special asteroids by randomly choosing asteroid spawn location | ≈ 4 hours |
+| `etc`  | | ≈ 8 hours |
 
 This project also uses these package:
 - Universal RP
