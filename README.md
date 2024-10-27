@@ -22,6 +22,11 @@ scripts:
 This project also uses these package:
 - Universal RP
 
+Post Processing used:
+- Bloom
+- Vignette
+- Film Grain
+
 the game has:
 - scoring and Highscore saving system
 - 2 power up
